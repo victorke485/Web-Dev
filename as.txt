@@ -1,0 +1,57 @@
+Responsive-Web-Design/
+│
+├── 00_intro_setup/
+│   ├── what_is_html.md
+│   ├── what_is_css.md
+│   └── how_to_use_freecodecamp.md
+│
+├── 01_html_basics/
+│   ├── basic_structure.html
+│   ├── headings_paragraphs.html
+│   ├── images_links.html
+│   └── lists.html
+│
+├── 02_semantic_html/
+│   ├── semantic_overview.md
+│   ├── header_nav_main_footer.html
+│   ├── article_section_aside.html
+│   └── accessibility_landmarks.md
+│
+├── 03_forms_tables/
+│   ├── form_inputs.html
+│   ├── labels_accessibility.html
+│   ├── basic_table.html
+│   └── form_validation.md
+│
+├── 04_basic_css/
+│   ├── selectors.md
+│   ├── colors_units.html
+│   ├── box_model.html
+│   └── text_styles.html
+│
+├── 05_flexbox/
+│   ├── flex_overview.md
+│   ├── flex_container.html
+│   ├── align_justify_examples.html
+│   └── common_patterns.html
+│
+├── 06_css_grid/
+│   ├── grid_basics.md
+│   ├── grid_template.html
+│   ├── placing_items.html
+│   └── responsive_grid_examples.md
+│
+├── 07_responsive_design/
+│   ├── media_queries.md
+│   ├── fluid_layouts.html
+│   ├── flexible_images.html
+│   └── breakpoints_plan.md
+│
+├── 08_projects/
+│   ├── tribute_page/index.html
+│   ├── survey_form/index.html
+│   ├── product_landing_page/index.html
+│   ├── tech_doc_page/index.html
+│   └── personal_portfolio/index.html
+│
+└── resources.md
